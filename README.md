@@ -3,7 +3,7 @@ Olá, eu sou o Luan Gomes ✅
 - 👀 Estou me preparando para desenvolver e analisar códigos, e resolver problemas.
 - 🌱 Cursando ADS - analise e desenvolvimento de sistemas.
 - ⚖️ Procuro me encaixar em qualquer empresa de tecnologia.
-- 📫 Como entrar em contato comigo, e-mail luan.araujo@spteh.school
+- 📫 Como entrar em contato comigo, e-mail luan.araujo@sptech.school
 
 <div> 
    <a href="https://mail.google.com/mail/u/1/#inbox 'target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target"_blank"></a>
